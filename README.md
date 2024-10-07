@@ -1,7 +1,5 @@
 ### PREVIEW
 
-![Blood-Disease-Prediction](https://i.ibb.co/vV8vxJ2/preview.png)
-
 ### OVERVIEW
 
 - This is a Flask-based machine learning project designed for blood disease prediction.
@@ -10,3 +8,4 @@
 
 
 BY ROUSHAN KUMAR
+HOST: http://127.0.0.1:5000 (for better use FireFox and Safari)
